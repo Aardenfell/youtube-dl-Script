@@ -23,4 +23,5 @@ and make sure that the `bin` folder is only one level down. Like this:
 
 If you're having trouble pasting a link into Command Prompt try enabling these two options:
 ![image](https://user-images.githubusercontent.com/40066656/123966806-5bd7b480-d97b-11eb-925f-89ed071b54ed.png)
+
 Afterwords all you need to do is use Ctrl+Shift+V to paste your link.
