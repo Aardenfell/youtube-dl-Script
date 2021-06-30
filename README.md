@@ -8,6 +8,7 @@ If you don't have youtube-dl.exe installed already the script will prompt you to
 
 ### FFmpeg Support
 If you want FFmpeg to work you must have already downloaded the Windows version from [here](https://www.gyan.dev/ffmpeg/builds/). Scroll down until you find something like this and make sure you download the `ffmpeg-git-full` package.
+
 ![image](https://user-images.githubusercontent.com/40066656/123948352-ee218d80-d966-11eb-95a2-d3336b7259aa.png)
 
 Extract the contents into the same location as the script and batch file. Rename the extracted folder to `FFmpeg` 
@@ -22,6 +23,7 @@ and make sure that the `bin` folder is only one level down. Like this:
 ### Other
 
 If you're having trouble pasting a link into Command Prompt try enabling these two options:
+
 ![image](https://user-images.githubusercontent.com/40066656/123966806-5bd7b480-d97b-11eb-925f-89ed071b54ed.png)
 
 Afterwords all you need to do is use Ctrl+Shift+V to paste your link.
